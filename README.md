@@ -1,6 +1,6 @@
 ## Proyecto de Biosensor Cutáneo para Medir el Lactato en Pacientes de UCI
 
-![Biosensor Cutáneo](URL_de_la_imagen)
+![Biosensor Cutáneo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXiS63zEa53pHVknvdzMQ9WiSHOe3g2GXp-cF4jlhtfYoLuwRC)
 
 Planteamiento de un biosensor cutáneo  en formato de tatuaje para la monitorización del lactato en pacientes de Unidades de Cuidados Intensivos (UCI). El prototipo propone un enfoque revolucionario al combinar el sistema de sensado con un sistema de alimentación por biocombustible, brindando así un sistema autónomo de monitorización.
 
@@ -14,5 +14,4 @@ Planteamiento de un biosensor cutáneo  en formato de tatuaje para la monitoriza
 
 - **Interfaz intuitiva y visualización de datos en tiempo real:** A través de una aplicación dedicada, los médicos y el personal de la UCI pueden acceder a los datos de lactato en tiempo real, lo que les permite tomar decisiones basadas en información actualizada.
 
-¡Este proyecto representa un avance significativo en el campo de la monitorización de lactato en entornos de cuidados intensivos! Si deseas obtener más detalles técnicos o conocer el estado actual del proyecto, no dudes en visitar el repositorio correspondiente.
 
